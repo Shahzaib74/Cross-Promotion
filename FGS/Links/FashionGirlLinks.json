@@ -1,0 +1,14 @@
+{
+    "gamesData": [
+        {
+            "appVersion": "5",
+            "appName": "Cave Flying Bat Game",
+            "appLink": "https://play.google.com/store/apps/details?id=com.GameX.CaveFlying"
+        },
+        {
+            "appVersion": "5",
+            "appName": "Catching Cats",
+            "appLink": "https://play.google.com/store/apps/details?id=com.GameXFreeGames.CatchingCats"
+        }
+    ]
+}
