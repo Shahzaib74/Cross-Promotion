@@ -2,13 +2,18 @@
     "gamesData": [
         {
             "appVersion": "5",
-            "appName": "Cave Flying Bat Game",
-            "appLink": "https://play.google.com/store/apps/details?id=com.GameX.CaveFlying"
+            "appName": "Royal Candy Match",
+            "appLink": "https://play.google.com/store/apps/details?id=com.gamex.royal.candy.match"
         },
         {
             "appVersion": "5",
             "appName": "Catching Cats",
             "appLink": "https://play.google.com/store/apps/details?id=com.GameXFreeGames.CatchingCats"
+        },
+        {
+            "appVersion": "5",
+            "appName": "Cave Flying Bat Game",
+            "appLink": "https://play.google.com/store/apps/details?id=com.GameX.CaveFlying"
         }
     ]
 }
