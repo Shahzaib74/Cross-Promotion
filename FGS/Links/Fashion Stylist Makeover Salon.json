@@ -1,0 +1,16 @@
+{
+    "gamesData": [
+        {
+            "appName": "Fashion Girl Dress Up",
+            "appLink": "https://play.google.com/store/apps/details?id=com.fgs.fashion.girl.dressup.game"
+        },
+        {
+            "appName": "Super Wedding Stylish Princess",
+            "appLink": "https://play.google.com/store/apps/details?id=com.fgs.wedding.stylish.princess"
+        },
+        {
+            "appName": "Catching Cats",
+            "appLink": "https://play.google.com/store/apps/details?id=com.GameXFreeGames.CatchingCats"
+        }
+    ]
+}
