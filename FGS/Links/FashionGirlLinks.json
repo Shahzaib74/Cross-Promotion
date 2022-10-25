@@ -1,7 +1,7 @@
 {
      "adsData": {
-        "useAdmobBanner": "true",
-        "useAdmobRewarded": "true"
+        "useAdmobBanner": "false",
+        "useAdmobRewarded": "false"
     },
     "gamesData": [
         {
