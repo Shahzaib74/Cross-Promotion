@@ -1,4 +1,8 @@
 {
+     "adsData": {
+        "useAdmobBanner": "false",
+        "useAdmobRewarded": "false"
+    },
     "gamesData": [
         {
             "appVersion": "5",
