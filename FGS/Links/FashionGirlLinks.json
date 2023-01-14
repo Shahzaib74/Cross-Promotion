@@ -1,14 +1,13 @@
 {
+    "adsData": {
+        "useAdmobBanner": "false",
+        "useAdmobRewarded": "false"
+    },
     "gamesData": [
         {
+            "appVersion": "5",
             "appName": "Super Wedding Stylish Princess",
-            "appLink": "https://play.google.com/store/apps/details?id=com.fgs.wedding.stylish.princess",
-            "appImageLink": ""
+            "appLink": "https://play.google.com/store/apps/details?id=com.fgs.wedding.stylish.princess"
         }
-    ],
-    "adsData":
-    {
-        "useAdmobBanner" : false,
-        "useAdmobRewarded" : false
-    }
+    ]
 }
