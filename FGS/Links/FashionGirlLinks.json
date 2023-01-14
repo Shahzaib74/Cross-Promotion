@@ -1,0 +1,14 @@
+{
+    "gamesData": [
+        {
+            "appName": "",
+            "appLink": "",
+            "appImageLink": ""
+        }
+    ]
+    "adsData":
+    {
+        "useAdmobBanner" : false,
+        "useAdmobRewarded" : false
+    }
+}
