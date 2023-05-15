@@ -2,7 +2,7 @@
     "adsData": {
         "useModeSelectAd": "false",
         "adTimer": "45",
-        "useCrossPromo":  "false"
+        "useCrossPromo":  "ture"
     },
     "gamesData": [
         {
