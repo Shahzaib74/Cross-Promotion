@@ -1,6 +1,6 @@
 {
     "adsData": {
-        "useModeSelectAd": "true",
+        "useModeSelectAd": "false",
         "adTimer": "45",
         "useCrossPromo":  "ture"
     },
